@@ -3,6 +3,7 @@ using namespace std;
 #define ll long long
 
 //my first commit in git in c++ hi
+//first commit from git 
 void solve(){
 	int n;
 	cin>>n;
